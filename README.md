@@ -7,7 +7,7 @@ Steps to run the application
 
 
 Note:
-1.As alternate to the migration you can import database file after creating db name. Please find the exported sql file in the path below
+1. As alternate to the migration you can import database file after creating db name. Please find the exported sql file in the path below
 C:\xampp\htdocs\Laravel8Task\SQL\laravel_crud.sql
 
 2. "vendor" folder(as it is huge in size) and ".env" file are in gitignore and I have removed from  gitignore and uploaded to git.
